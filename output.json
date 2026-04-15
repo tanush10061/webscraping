@@ -1,0 +1,47 @@
+[
+  {
+    "business_name": "Silver Tech LP",
+    "registration_id": "SD0000610",
+    "status": "Active",
+    "filing_date": "1995-10-26",
+    "agent_name": "John Taylor",
+    "agent_address": "3915 Elm Ave",
+    "agent_email": "john.taylor.8e3eee3c-a479-4ca2-afdb-5e085b507cae@example.com"
+  },
+  {
+    "business_name": "Silver Tech CORP",
+    "registration_id": "SD0000001",
+    "status": "Active",
+    "filing_date": "1999-12-04",
+    "agent_name": "Sara Smith",
+    "agent_address": "1545 Maple Ave",
+    "agent_email": "sara.smith.93bf1e7d-3cff-4577-97ec-a89c62b159fb@example.com"
+  },
+  {
+    "business_name": "Silver Tech LP",
+    "registration_id": "SD0000672",
+    "status": "Inactive",
+    "filing_date": "2007-12-27",
+    "agent_name": "Jen Davis",
+    "agent_address": "6046 Hill Ave",
+    "agent_email": "jen.davis.dc03c8ed-7c3d-446c-995d-6ef835e1bbfe@example.com"
+  },
+  {
+    "business_name": "Silver Tech LLC",
+    "registration_id": "SD0001755",
+    "status": "Active",
+    "filing_date": "2010-04-21",
+    "agent_name": "Gian Smith",
+    "agent_address": "3708 Hill Ave",
+    "agent_email": "gian.smith.b5df3677-cf71-4328-bf3a-3a1f44db829d@example.com"
+  },
+  {
+    "business_name": "Silver Tech CORP",
+    "registration_id": "SD0000054",
+    "status": "Active",
+    "filing_date": "2009-06-06",
+    "agent_name": "John Johnson",
+    "agent_address": "6575 Hill Ave",
+    "agent_email": "john.johnson.89c02094-17b3-46b8-8c3b-0c63e4404edf@example.com"
+  }
+]

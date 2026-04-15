@@ -1,0 +1,6 @@
+business_name,registration_id,status,filing_date,agent_name,agent_address,agent_email
+Silver Tech LP,SD0000610,Active,1995-10-26,John Taylor,3915 Elm Ave,john.taylor.8e3eee3c-a479-4ca2-afdb-5e085b507cae@example.com
+Silver Tech CORP,SD0000001,Active,1999-12-04,Sara Smith,1545 Maple Ave,sara.smith.93bf1e7d-3cff-4577-97ec-a89c62b159fb@example.com
+Silver Tech LP,SD0000672,Inactive,2007-12-27,Jen Davis,6046 Hill Ave,jen.davis.dc03c8ed-7c3d-446c-995d-6ef835e1bbfe@example.com
+Silver Tech LLC,SD0001755,Active,2010-04-21,Gian Smith,3708 Hill Ave,gian.smith.b5df3677-cf71-4328-bf3a-3a1f44db829d@example.com
+Silver Tech CORP,SD0000054,Active,2009-06-06,John Johnson,6575 Hill Ave,john.johnson.89c02094-17b3-46b8-8c3b-0c63e4404edf@example.com
